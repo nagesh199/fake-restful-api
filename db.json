@@ -1,14 +1,5 @@
 {
   "datas": [
-     {
-       "name":"abc",
-       "age":30,
-       "salary":50000
-     },
-     {
-      "name":"xyz",
-      "age":28,
-      "salary":30000
-    }
+     
   ]
 }
